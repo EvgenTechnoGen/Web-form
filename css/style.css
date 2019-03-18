@@ -3,3 +3,7 @@ body{
   background-size: auto;
   background-repeat: no-no-repeat;
 }
+
+a {
+  color: #fff;
+}
