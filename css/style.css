@@ -56,3 +56,17 @@ input[type="text"], input[type="password"] {
   border-bottom: 4px solid #FFF273;
   cursor: pointer;
 }
+
+.dws-submit:hover {
+  transition: all 0.7s;
+  background: #fff;
+  color: #2c536c;
+}
+
+.dws-input:first-child::before {
+  font-family: "FontAwesome";
+  content: "\f007";
+  position: absolute;
+  font-size: 30px;
+  padding: 10px 0 0 7px;
+}
