@@ -70,3 +70,12 @@ input[type="text"], input[type="password"] {
   font-size: 30px;
   padding: 10px 0 0 7px;
 }
+
+.dws-input:first-child::after {
+  font-family: "FontAwesome";
+  content: "\f023";
+  position: absolute;
+  font-size: 30px;
+  padding: 95px 0 0 7px;
+  margin-left: -343px;
+}
