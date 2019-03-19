@@ -45,3 +45,14 @@ input[type="text"], input[type="password"] {
   border-radius: 5px;
   padding-left: 40px;
 }
+
+.dws-submit {
+  padding: 13px 30px;
+  margin: 5px 0 20px 0;
+  font-size: 15px;
+  color: #fff;
+  background-color: #FFC300;
+  border: none;
+  border-bottom: 4px solid #FFF273;
+  cursor: pointer;
+}
