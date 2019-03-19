@@ -30,3 +30,9 @@ a:hover {
   border: 5px solid #FFC300;
   box-shadow: 0 -5px 0 #9A6AD6;
 }
+
+.container img:hover {
+  width: 140px;
+  height: 140px;
+  transition: all 0.3s;
+}
