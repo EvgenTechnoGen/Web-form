@@ -21,3 +21,12 @@ a:hover {
   box-shadow: 0 -5px 0 #9A6AD6;
   border-radius: 0 0 10px 10px;
 }
+
+.container img {
+  width: 120px;
+  height: 120px;
+  margin: -60px 0 30px 0;
+  border-radius: 50%;
+  border: 5px solid #FFC300;
+  box-shadow: 0 -5px 0 #9A6AD6;
+}
